@@ -1,0 +1,11 @@
+{
+  "deno.enable": true,
+  "deno.lint": true,
+  "deno.unstable": false,
+  "json.schemas": [
+    {
+      "fileMatch": ["deno.jsonc"],
+      "url": ".vscode/deno-schemas.json"
+    }
+  ]
+}
